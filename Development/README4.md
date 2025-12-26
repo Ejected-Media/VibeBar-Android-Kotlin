@@ -69,7 +69,7 @@ CompositionLocalProvider(LocalOverlayTheme provides currentTheme) {
     // The UI automatically updates when the theme changes!
     DynamicFloatingBar()
 }
-``|
+```
 
 
 Next Step for your Projects 
